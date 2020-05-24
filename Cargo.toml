@@ -1,5 +1,5 @@
 [package]
-name = "rust_calc"
+name = "poker_calc"
 version = "0.1.0"
 authors = ["Paul Hunter <phunter510@gmail.com>"]
 edition = "2018"
